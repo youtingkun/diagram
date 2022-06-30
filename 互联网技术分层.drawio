@@ -1,0 +1,34 @@
+<mxfile host="app.diagrams.net" modified="2022-06-30T09:08:21.176Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="UujyJqlOr5wd0a29oBzT" version="20.0.4" type="github">
+  <diagram id="PvZHFSkQ3uoySLPBlTMi" name="Page-1">
+    <mxGraphModel dx="1422" dy="1963" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="q3kTYKQn5024KZVrU1zc-1" value="操作系统和协议：计算机系统、网络协议" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="90" y="460" width="700" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="q3kTYKQn5024KZVrU1zc-2" value="各种编程语言及工具：java、javascript、nginx" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="115" y="390" width="650" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="q3kTYKQn5024KZVrU1zc-3" value="各种应用框架和组件库：vue、react、springcloud、ant-design、element-ui" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="140" y="310" width="600" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="q3kTYKQn5024KZVrU1zc-4" value="各种应用模块：用户管理系统、订单管理系统、系统管理、商品管理系统等" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="170" y="230" width="540" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="q3kTYKQn5024KZVrU1zc-5" value="各平台：pc端、app、小程序、快应用、web端" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="200" y="150" width="480" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="q3kTYKQn5024KZVrU1zc-6" value="各种应用：&lt;br&gt;交通类（滴滴）、社交类（微信）、&lt;br&gt;工具类（企业微信）、商场类（淘宝）、&lt;br&gt;外卖类（美团）、金融类（支付宝）等" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=210;" parent="1" vertex="1">
+          <mxGeometry x="230" y="-340" width="420" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="q3kTYKQn5024KZVrU1zc-7" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;" parent="1" vertex="1">
+          <mxGeometry x="745" y="130" width="20" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="q3kTYKQn5024KZVrU1zc-8" value="我工作的主要范围是利用各种框架来实现各个平台的各种应用模块" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="790" y="160" width="210" height="90" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
