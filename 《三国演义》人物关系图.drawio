@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-06T21:50:48.139Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="nH1C-qrLy-zkSHsbP3Yf" version="22.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-06T21:58:59.214Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="zUz_e71-ITHX7VovrB9o" version="22.1.7" type="github">
   <diagram name="第 1 页" id="LmKxvjZBlEMGW-hGIUWg">
-    <mxGraphModel dx="2261" dy="1951" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2876" dy="2286" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,13 +8,13 @@
           <mxGeometry x="-380" y="600" width="160" height="100" as="geometry" />
         </mxCell>
         <mxCell id="JMEA7dkZQgMuHg7qVeLx-2" value="曹操" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EA6B66;" vertex="1" parent="1">
-          <mxGeometry x="230" y="-30" width="120" height="60" as="geometry" />
+          <mxGeometry x="250" y="-290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JMEA7dkZQgMuHg7qVeLx-3" value="孙权" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#7EA6E0;" vertex="1" parent="1">
-          <mxGeometry x="860" y="700" width="120" height="60" as="geometry" />
+          <mxGeometry x="830" y="650" width="180" height="110" as="geometry" />
         </mxCell>
         <mxCell id="JMEA7dkZQgMuHg7qVeLx-4" value="汉献帝：刘协" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="525" width="120" height="60" as="geometry" />
+          <mxGeometry x="250" y="480" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JMEA7dkZQgMuHg7qVeLx-5" value="赵云" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-690" y="630" width="120" height="60" as="geometry" />
@@ -59,6 +59,68 @@
         </mxCell>
         <mxCell id="JMEA7dkZQgMuHg7qVeLx-16" value="诸葛亮" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-210" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JMEA7dkZQgMuHg7qVeLx-17" value="孙策" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="860" y="930" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JMEA7dkZQgMuHg7qVeLx-18" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="JMEA7dkZQgMuHg7qVeLx-17" target="JMEA7dkZQgMuHg7qVeLx-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="990" y="870" as="sourcePoint" />
+            <mxPoint x="1040" y="820" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JMEA7dkZQgMuHg7qVeLx-19" value="弟" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="JMEA7dkZQgMuHg7qVeLx-18">
+          <mxGeometry x="-0.7647" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JMEA7dkZQgMuHg7qVeLx-20" value="孙坚" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="860" y="1080" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JMEA7dkZQgMuHg7qVeLx-21" value="吴国太" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="860" y="1240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JMEA7dkZQgMuHg7qVeLx-22" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="JMEA7dkZQgMuHg7qVeLx-20" target="JMEA7dkZQgMuHg7qVeLx-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="790" y="1050" as="sourcePoint" />
+            <mxPoint x="840" y="1000" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JMEA7dkZQgMuHg7qVeLx-23" value="子" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="JMEA7dkZQgMuHg7qVeLx-22">
+          <mxGeometry x="-0.1778" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JMEA7dkZQgMuHg7qVeLx-24" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="JMEA7dkZQgMuHg7qVeLx-20" target="JMEA7dkZQgMuHg7qVeLx-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="680" y="1200" as="sourcePoint" />
+            <mxPoint x="730" y="1150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JMEA7dkZQgMuHg7qVeLx-25" value="次妻" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="JMEA7dkZQgMuHg7qVeLx-24">
+          <mxGeometry x="0.08" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JMEA7dkZQgMuHg7qVeLx-28" value="孙尚香" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-360" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JMEA7dkZQgMuHg7qVeLx-29" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JMEA7dkZQgMuHg7qVeLx-1" target="JMEA7dkZQgMuHg7qVeLx-28">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-180" y="850" as="sourcePoint" />
+            <mxPoint x="-130" y="800" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JMEA7dkZQgMuHg7qVeLx-31" value="妻" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" connectable="0" parent="JMEA7dkZQgMuHg7qVeLx-29">
+          <mxGeometry x="-0.7492" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JMEA7dkZQgMuHg7qVeLx-30" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="JMEA7dkZQgMuHg7qVeLx-21" target="JMEA7dkZQgMuHg7qVeLx-28">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="130" y="990" as="sourcePoint" />
+            <mxPoint x="-90" y="940" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
